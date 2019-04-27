@@ -1,2 +1,2 @@
 # Hello-world
-just a repository
+github is a world of itself.
